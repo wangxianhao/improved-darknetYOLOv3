@@ -1,0 +1,6 @@
+classes= 1
+train = /home/haojue/yolo/yolov3-for-car/2019_train.txt
+valid = /home/haojue/yolo/yolov3-for-car/2019_test.txt
+names = data/car.names
+backup = backup
+
